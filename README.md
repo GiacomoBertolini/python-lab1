@@ -12,4 +12,4 @@ To get started:
 6. Commit and push the changes you made back to GitHub, from the VCS menu in PyCharm
 
 ## Solution
-The solution for exercises 1 and 2 will be in the solution branch.
+The solution for exercises 1 and 2 are in the [solution](../../tree/solution) branch.
